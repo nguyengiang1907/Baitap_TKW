@@ -1,0 +1,30 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+  }
+  h1 {
+    color: #000000;
+
+  }
+  h2 {
+    color: #000000;
+  }
+  h3 {
+    color: #333333;
+  }
+  ul {
+      color: #333333;
+  }
+  li {
+    color: #000000;
+  }
+  body {
+    color: #000000;
+  }
+  p {
+    color: #444444;
+  }
+  a {
+    color: #440000;
+  }
