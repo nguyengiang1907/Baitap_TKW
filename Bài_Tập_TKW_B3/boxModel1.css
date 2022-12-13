@@ -1,9 +1,6 @@
 #Bai1 {
-    background-color: rgb(203, 179, 178);
-    width: 100px;
-    border: 10px solid green;
-    padding: 10px solid rgb(247, 246, 246) ;
-    margin: 15px ;
-    
-    color: rgb(76, 133, 15);
+    width: 300px;
+    border: 25px solid green;
+    padding: 20px;
+    margin: 30px ;
 }
