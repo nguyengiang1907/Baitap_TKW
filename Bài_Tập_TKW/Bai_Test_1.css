@@ -1,0 +1,11 @@
+.Mane1{
+    display: flex;
+    gap: 30px;
+}
+img {
+    transition: opacity .2s;
+  }
+​
+  img:hover {
+    opacity: 0.7;
+  }
